@@ -1,0 +1,14 @@
+.social-footer {
+  width: 100%;
+  padding: 50px;
+  background: #1d1d1d;
+  color: white;
+}
+.iconWrapper{
+  margin-top: 50px;
+  width: 100%;
+  text-align: center;
+}
+.iconWrapper a{
+  margin: 10px;
+}
